@@ -3,15 +3,15 @@ title: Hakkımızda
 toc: false
 ---
 
-Hextra2 is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
+Turizm Yazılımları A.Ş. olarak, modern statik web siteleri oluşturmak için basit, hızlı ve esnek bir tema olan Hextra2'yi kullanıyoruz. Özellikle dokümantasyon web siteleri için çok uygun olmakla birlikte, bloglar, portföyler ve daha fazlası gibi çeşitli site türleri için de kullanılabilir.
 
-Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
+Hugo, Jekyll gibi bir statik site oluşturucudur. Hugo'yu farklı kılan şey, tek bir ikili dosya olmasıdır, bu da çeşitli platformlara kurulumunu ve çalıştırılmasını kolaylaştırır. Ayrıca son derece hızlı ve güvenilirdir ve binlerce sayfalı bir siteyi milisaniyeler içinde oluşturabilir.
 
-Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
+Hextra, minimum ayak izine sahip olmaya odaklanan bir zihniyetle oluşturulmuştur. Başlamak için Node.js paketleri gibi ekstra bağımlılıklara gerek yoktur; tek ihtiyacınız olan, Markdown içeriğinizle birlikte tek bir YAML yapılandırma dosyasıdır. Böylece, araçları kurmak yerine kaliteli içerik yazmaya odaklanabiliriz.
 
-## Credits
+## Katkıda Bulunanlar
 
-Hextra cannot be built without the following tools and inspirations:
+Hextra, aşağıdaki araçlar ve ilhamlar olmadan oluşturulamazdı:
 
 - [Hugo](https://gohugo.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
